@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **iammohit1311@gmail.com**
 
-- ⚡ Naruto fact **Real-life Naruto here**
+- ⚡ Naruto fact **Real-life Itachi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
