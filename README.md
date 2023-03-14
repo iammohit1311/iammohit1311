@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **C++, NodeJS & Life**
+- 💬 Ask me about **C++, ReactJS & Life**
 
 - 📫 How to reach me **iammohit1311@gmail.com**
 
-- ⚡ Naruto fact **Real-life Itachi**
+- ⚡ Naruto fact **Real-life Itachi Uchiha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
