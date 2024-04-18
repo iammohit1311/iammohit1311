@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently exploring **Artificial Intelligence**
 
-- 💬 Ask me about **C++, ReactJS & Life**
+- 💬 Ask me about **C++, AI & Life**
 
 - 📫 How to reach me **iammohit1311@gmail.com**
 
